@@ -1,0 +1,21 @@
+In today's class, we were asked to learn about the material on listview and recyclerview. In this summary, I am going to give an overview of what we have studied so far.
+The RecyclerView is a new ViewGroup that is prepared to render any adapter-based view in a similar way. It is supossed to be the successor of ListView and GridView, 
+and it can be found in the latest support-v7 version. The RecyclerView has been developed with extensibility in mindto enable users to create any kind of layout, that being said
+it comes with its cons since it is more complicated.
+Advantages of RecyclerView over listview :
+
+. Contains ViewHolder by default.
+
+. Easy animations.
+
+. Supports horizontal , grid and staggered layouts
+
+Advantages of listView over recyclerView :
+
+. Easy to add divider.
+
+. Can use inbuilt arrayAdapter for simple plain lists
+
+. Supports Header and footer .
+
+. Supports OnItemClickListner .
