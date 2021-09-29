@@ -1,0 +1,17 @@
+In Today's class, we have learned about Flutter framework and its developement.
+The Flutter framework consists of both a software development kit (SDK) and their widget-based UI library. This library consists of various reusable UI elements, such as sliders, buttons, and text inputs. 
+
+Developers building mobile applications with the Flutter framework will do so using a programming language called Dart. With a syntax like JavaScript, Dart is a typed object programming language that focuses on front-end development. 
+Some of the top reasons why development teams choose Flutter include: 
+
+Increased productivity. Using the same codebase for iOS and Android saves both time and resources. Flutter’s native widgets also minimize time spent on testing by ensuring there is little to no compatibility issues with different OS versions.
+Easy to learn. Flutter allows developers to build native mobile applications without needing to access OEM widgets or use a lot of code. This, in addition to Flutter’s particularly appealing user interface, makes the mobile app creation process much simpler.  
+Great performance. Users report that it is difficult to notice the difference between a Flutter app and a native mobile app.
+
+Automated Flutter tests fall into three major categories: 
+Unit testing 
+Widget testing 
+Integration testing 
+
+While unit tests test a single function, class, or method, widget tests (also known as component tests) test a single widget. 
+Unit tests and widget tests make up most Flutter tests, tracked by code coverage. Integration tests test either a large part or the entire application, covering all the important use cases. 
